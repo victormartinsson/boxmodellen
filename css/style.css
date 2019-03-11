@@ -1,0 +1,33 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: pink;
+	color: white;
+}
+#box1{
+	width: 200px;
+	height: 150px;
+	padding-top:15px;
+	padding-left: 10px;
+	background-color: green;
+	border: solid white 2.5px;
+}
+
+#box2{
+	width: 200px;
+	height: 150px;
+	padding-top:15px;
+	padding-left: 10px;
+	background-color: red;
+	border: solid white 2.5px;
+}
+#white{
+	border: solid white 2.5px;
+	width: 205px;
+
+}
+#black{
+	border: solid black 2px;
+	width: 209px;
+}
